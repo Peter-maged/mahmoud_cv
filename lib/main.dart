@@ -155,10 +155,7 @@ Widget mahmoudItem() =>
                 color: Colors.teal,
               ),
               title: Text(
-                'Experience:'
-                    ' '
-                    '1-Worked as a traineer as an accountant in office called (bayt al mal)'
-                    '2-auditing in more than 1 company for example : Agtek company - newphlone trading company - i net work company - Golden arrows',
+                'Experience: \n 1-Worked as a traineer as an accountant in office called (bayt al mal). \n 2-auditing in more than 1 company for example : Agtek company - newphlone trading company - i net work company - Golden arrows.',
                 style: TextStyle(
                     fontSize: 20.0,
                     color: Colors.teal.shade900,
@@ -175,17 +172,7 @@ Widget mahmoudItem() =>
                 color: Colors.teal,
               ),
               title: Text(
-                'Skills:'
-                    ' '
-                    '1-Microsoft word'
-                    ''
-                    '2-Microsoft Excel'
-                    ''
-                    '3-Microsoft VBA'
-                    ''
-                    '4-Microsoft PowerPoint'
-                    ''
-                    '5-currently studying python self study',
+                'Skills: \n 1-Microsoft word. \n 2-Microsoft Excel. \n 3-Microsoft VBA. \n 4-Microsoft PowerPoint. \n 5-currently studying python self study.',
                 style: TextStyle(
                     fontSize: 20.0,
                     color: Colors.teal.shade900,
